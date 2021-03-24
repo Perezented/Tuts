@@ -44,3 +44,15 @@ Launching the app without debugging by selecting Ctrl+F5 allows you to:
 • Save the file
 
 • Quickly refresh the browser and see the code changes
+
+• Model: manages the behavior and data
+• View: manaages the display of data
+• Controller: handles page events and navigation between pages
+
+View:
+HTML CSS code or similar
+
+Model:
+Data related
+consists of classes/objects
+uses sql
